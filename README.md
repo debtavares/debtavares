@@ -2,7 +2,7 @@
 
 Beginner in BackEnd Web Development. 
 
-- 🔭 I’m currently doing a coding bootcamp- {reprograma} 
+- 🔭 I’m currently in a coding bootcamp- {reprograma} 
 - 🌱 I’m currently learning Javascript
 
 
