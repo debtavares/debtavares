@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, i'm Débora 👋
+
+Beginner in BackEnd Web Development. 
+
+- 🔭 I’m currently doing a coding bootcamp- {reprograma} 
+- 🌱 I’m currently learning Javascript
+
 
 <!--
 **debtavares/debtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
