@@ -1,10 +1,13 @@
-### Hi there, i'm Débora 👋
+### Hi, i'm Débora 👋
 
-Beginner in BackEnd Web Development. 
+BackEnd Dev (beginner).  Accountant, coffe lover and gamer. 
 
-- 🔭 I’m currently in a coding bootcamp- {reprograma} 
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently doing a bootcamp- {reprograma} 
+- 🌱 I’m currently learning **Javascript**.
 
+<br>
+
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **debtavares/debtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
