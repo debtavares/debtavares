@@ -1,6 +1,6 @@
 ### Hi, i'm Débora 👋
 
-BackEnd Dev (beginner).  Accountant, coffe lover and gamer. 
+Dev beginner.  Accountant, coffe lover and geek.  
 
 - 🔭 I’m currently doing a bootcamp- {reprograma} 
 - 🌱 I’m currently learning **Javascript**.
