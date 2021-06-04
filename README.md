@@ -1,6 +1,6 @@
 ### Hi, i'm Débora 👋
 
-Acountant, coffe lover and geek. 
+Dev, accountant, coffe lover and geek. 
 
 - 🔭 I’m currently doing a bootcamp- {reprograma} 
 - 🌱 I’m currently learning **Javascript**.
