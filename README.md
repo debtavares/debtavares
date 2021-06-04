@@ -1,6 +1,8 @@
-### Hi, i'm Débora 👋
+<h3 align="center"> 
+Hi, i'm Débora 👋</h3>
 
-Dev, accountant, coffe lover and geek. 
+<p align="center"> Accountant, coffe lover and geek. </P>
+
 
 - 🔭 I’m currently doing a bootcamp- {reprograma} 
 - 🌱 I’m currently learning **Javascript**.
