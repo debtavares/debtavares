@@ -16,7 +16,9 @@ front/back end dev.</P>
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 -->
 
-![debtavares's GitHub stats](https://github-readme-stats.vercel.app/api?username=debtavares&show_icons=true&theme=dracula)
+![debtavares's GitHub stats](https://github-readme-stats.vercel.app/api?username=debtavares&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
