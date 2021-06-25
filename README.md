@@ -17,10 +17,10 @@ Hi, i'm Débora 👋</h1>
 <-->
 
 <a href="https://github.com/debtavares/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debtavares&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debtavares&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/debtavares/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=dracula"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=gruvbox"/>
 </a>
 
 <br><br>
