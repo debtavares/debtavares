@@ -1,8 +1,8 @@
 <h1>
 Oi, sou a Débora 👋</h1>
 <img align="right" alt="deborat" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_jVdA6vqw.png" width="130rem">
-<img src="https://i.pinimg.com/originals/97/f0/35/97f0350b0ee8bfc4d2b30e9dd9e9e087.gif" width="130rem">
-<p>- Estudante de Análise e Desenvolvimento de Sistemas. </p>
+<br><br>
+<p>- Estudante de Análise e Desenvolvimento de Sistemas. <br> - Aluna do reprograma turma On12. </p><br>
 
 
 #
