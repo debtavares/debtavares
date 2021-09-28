@@ -1,8 +1,11 @@
 <h1>
 Oi, sou a Débora 👋</h1>
 <img align="right" alt="deborat" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_jVdA6vqw.png" width="130rem">
-<br><br>
-<p>- Estudante de Análise e Desenvolvimento de Sistemas. <br> - Aluna do reprograma turma On12. </p><br>
+<Br>
+<p>- Formada em Ciências Contábeis; </p> 
+<p>- Graduanda em Análise e desenvolvimento de sistemas; </p> 
+<p>- Em transição de carreira para a área de desenvolvimento web; </p> 
+<p>- Fui aluna do {reprograma} formação backend na turma On12. </p><br>
 
 
 #
