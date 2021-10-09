@@ -1,6 +1,5 @@
 <h1>
 Oi, sou a Débora 👋</h1>
-<img align="right" alt="deborat" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_jVdA6vqw.png" width="130rem">
 <Br>
 <p>- Formada em Ciências Contábeis; </p> 
 <p>- Graduanda em Análise e desenvolvimento de sistemas; </p> 
@@ -30,6 +29,7 @@ Oi, sou a Débora 👋</h1>
 
 <!--
 **debtavares/debtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="deborat" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_jVdA6vqw.png" width="130rem">
 
 Here are some ideas to get you started:
 
