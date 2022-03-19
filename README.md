@@ -1,10 +1,10 @@
 <h1>
-Oi, sou a Débora 👋</h1>
+Olá, sou a Débora 🍒</h1>
 <Br>
+<p>- Desenvolvedora Java Jr. </p> 
+<p>- Graduanda em Análise e Desenvolvimento de Sistemas; </p> 
 <p>- Formada em Ciências Contábeis; </p> 
-<p>- Graduanda em Análise e desenvolvimento de sistemas; </p> 
-<p>- Em transição de carreira para a área de desenvolvimento web; </p> 
-<p>- Fui aluna do {reprograma} formação backend na turma On12. </p><br>
+<p>- Também formada pelo {reprograma}, turma back-end. </p><br>
 
 
 #
