@@ -1,11 +1,19 @@
 <h1>
-Olá, bem vindo 👋</h1>
-<Br>
-<p>• 👩‍💻 Sou formada em Ciências Contábeis e formanda em Análise e desenvolvimento de sistemas;</p> 
-<p>• 🔭 No momento atuo como Analista Júnior, com Java e PL/SQL; </p> 
+ Olá, sou a Débora 👋</h1>
+<Br> 
+
+<p> <img align="center" src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="computer" /></p>
+  
+<p>• 👩‍💻 Sou formada em Ciências Contábeis e formanda em Análise e Desenvolvimento de Sistemas;</p> 
+<p>• :computer: No momento atuo como Desenvolvedora Júnior, com Java e PL/SQL; </p> 
 <p>• 📚 Estou fazendo cursos extras de Cloud computing (AWS) e Python; </p> 
 <p>• 🚀 Me interesso por Programação, Data Science e ML. </p>
 
+
+#
+  
+<p>:round_pushpin: Recife - PE </p>
+<p>:email: debora.tavares313@gmail.com </p>
 
 #
 
