@@ -1,6 +1,4 @@
 <h1 align="center"> Hi👋 I'm Débora </h1>
-
-<p align="center"> A Web Developer Studying Data Science</p>
  
 <p align="center">
   <img width="460" height="300" src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="computer">
@@ -26,7 +24,7 @@
   ## Experience
   *  📖 Application Development Associate @ Accenture
      📆 2021 - moment <br>
-     👩‍💻 Java, PL/SQL
+     👩‍💻 web Java, PL/SQL
 </details>
 
  
