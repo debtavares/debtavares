@@ -20,9 +20,8 @@
 <a href="https://github.com/debtavares/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=debtavares&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/debtavares/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=dracula"/>
-</a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=dracula)](https://github.com/debtavares/github-readme)
 
 #
 
@@ -47,5 +46,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt ="java" />
 </p>
+
+<a href="https://github.com/debtavares/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtavares&layout=compact&theme=dracula"/>
+</a>
 
 -->
