@@ -24,7 +24,7 @@
   ## Experience
   *  📖 Application Development Associate @ Accenture <br>
      📆 2021 - moment <br>
-     👩‍💻 Java, PL/SQL
+     👩‍💻 Java, SQL
 </details>
 
  
