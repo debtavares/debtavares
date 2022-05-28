@@ -13,18 +13,18 @@
   <summary>Resume</summary>
   
   ## Education
-  *  📖 Bachelor degree in Accounting Science <br>
+  *  📖 Bachelor's degree in Accounting <br>
      📆 2016 - 2021 <br>
      📍 Federal University of Pernambuco - Brazil 
 
-  *  📖 Technologist Degree in System Analysis and Development <br>
+  *  📖 Bachelor of technology in System Analysis and Development <br>
      📆 2021 - 2023 <br>
      📍 Estácio - Brazil 
   
   ## Experience
   *  📖 Application Development Associate @ Accenture <br>
      📆 2021 - moment <br>
-     👩‍💻 Java, SQL
+     👩‍💻 HTML, CSS, JavaScript, Java, SQL
 </details>
 
  
