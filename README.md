@@ -17,7 +17,7 @@
      📆 2016 - 2021 <br>
      📍 Federal University of Pernambuco - Brazil 
 
-  *  📖 Bachelor of technology in System Analysis and Development <br>
+  *  📖 Technologist degree in Systems Analysis and Development <br>
      📆 2021 - 2023 <br>
      📍 Estácio - Brazil 
   
