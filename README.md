@@ -18,8 +18,12 @@
      📍 Federal University of Pernambuco - Brazil 
 
   *  📖 Technologist degree in Systems Analysis and Development <br>
-     📆 2021 - 2023 <br>
+     📆 2021 - 2022 (interrupted) <br>
      📍 Estácio - Brazil 
+     
+  *  📖 Postgraduate degree in Data Science <br>
+     📆 2022 - 2023 <br>
+     📍 Federal University of Pernambuco - Brazil
   
   ## Experience
   *  📖 Application Development Associate @ Accenture <br>
