@@ -17,7 +17,7 @@
      📆 2016 - 2021 <br>
      📍 Federal University of Pernambuco - Brazil 
 
-  *  📖 Technologist degree in Systems Analysis and Development <br>
+  *  📖 Bachelor's degree in Information System <br>
      📆 2021 - 2022 (interrupted) <br>
      📍 Estácio - Brazil 
      
@@ -26,9 +26,9 @@
      📍 Federal University of Pernambuco - Brazil
   
   ## Experience
-  *  📖 Application Development Associate @ Accenture <br>
+  *  📖 Java Developer @ Accenture <br>
      📆 2021 - moment <br>
-     👩‍💻 HTML, CSS, JavaScript, Java, SQL
+     👩‍💻 Java, SQL, HTML, CSS, JavaScript.
 </details>
 
  
