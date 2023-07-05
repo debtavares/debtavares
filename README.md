@@ -26,9 +26,9 @@
      📍 Federal University of Pernambuco - Brazil
   
   ## Experience
-  *  📖 Java Developer @ Accenture <br>
+  *  📖 Oracle BRM Analyst @ Accenture <br>
      📆 2021 - moment <br>
-     👩‍💻 Java, SQL, HTML, CSS, JavaScript.
+     👩‍💻 Java, SQL.
 </details>
 
  
