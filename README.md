@@ -17,8 +17,8 @@
      📆 2016 - 2021 <br>
      📍 Federal University of Pernambuco - Brazil 
 
-  *  📖 Bachelor's degree in Information System <br>
-     📆 2021 - 2022 (interrupted) <br>
+  *  📖 Technologist in Systems Analysis and Development <br>
+     📆 2021 - <br>
      📍 Estácio - Brazil 
      
   *  📖 Postgraduate degree in Data Science <br>
